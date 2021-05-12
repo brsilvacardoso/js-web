@@ -2,7 +2,7 @@
 
 Projeto do curso JS na Web: Manipule o DOM com JavaScript da Alura.
 
-Durante o curso foram trabalhados pontos como:
+No curso foi desenvolvida uma pequena aplicação para criar uma lista de tarefas com as funçoes de finzalizar e deletar os itens. Durante as aulas foram trabalhados pontos como:
 
 * Funcionamento do DOM.
 * Manioulação do DOM para alterar, adicionar, remover e criar novos elementos na árvore de objetos.
